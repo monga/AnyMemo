@@ -453,4 +453,7 @@
     <string name="search_by_title_message">Inserisci un titolo o una descrizione da cercare,\np.es. spagnolo, matematica ecc.</string>
     <string name="open_text">Apri</string>
     <string name="close_text">Chiudi</string>
+    <string name="greek_text">Greco</string>
+    <string name="hour_text">ore</string>
+    <string name="minute_text">min</string>
 </resources>
